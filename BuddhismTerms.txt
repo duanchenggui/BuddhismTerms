@@ -1,33 +1,32 @@
 [Abhidhamma Piṭaka] 《阿毘達磨藏》, 又稱《論藏》
-[Abhidhamma] 阿毘達磨, 論藏，佛教三藏之一
+[Abhidhamma] 《阿毘達磨》, 論藏，佛教三藏之一
 [Abhidharmakośakārikā] (簡寫為：[Abhidharmakośa])《阿毗達磨俱舍論》
 [Abhijjhā] Covetousness 貪慾
 [Acharya Dandi]  A great Indian poet
 [Acinteyya] That which cannot or should not be thought, the unthinkable 【形】不能被思
 [adhimukti] propensity   強烈的傾向；志向；信心。漢譯作信解、勝解、愛樂
-[adinna] 未給的 not given
+[adinna]  not given 未給的
 [adinnādāna veramani]    不偷盜
 [adinnādāna] 偷盜 theft
 [adukkhamasukha]  indifferent feelings 不苦不樂受
 [Aggañña Sutta]  《起世因本經》
 [Ahetuka] unfounded 無因
-[Ahirika] (Shamelessness) 不知羞恥
+[Ahirika] Shamelessness 不知羞恥
 [Ahosi Kamma] 既有業
 [Akusala Kamma] 不善業
 [Akusalakamma] 不善業 （精神層面）
 [Akusala] Unwholesome 不善的
-[Alavaka-sutta] 林主夜叉經
+[Alavaka-sutta] 《林主夜叉經》
 [Alaya consciousness] 阿賴耶識 [Ālayavijñāna]
 [alm bowl] 缽
-[alābha] loss 衰
-[alābha] 衰 loss, 世間八法之一
+[alābha]  loss 衰, 世間八法之一
 [Amaritukama]   desire to avoid death 怕死
 [Amedhatā] mental deficiency
 [Amitābha] 阿彌陀佛
 [anattā] 'not-self', non-ego, egolessness 無我
 [Anguttara Nikāya] 《增支部》
 [Aniccasaññā] Perception of impermanence 無常想
-[Anottappa] (Fearlessness) 鹵莽
+[Anottappa] Fearlessness 鹵莽
 [antaguṇaṃ] 腸膜
 [antaṃ] 腸
 [anumodana] 隨喜
@@ -36,7 +35,7 @@
 [anupubba sikkhā]  gradual training
 [anusaya] (latent) disposition, tendency, 傾向，隨眠
 [anusaya] latent dispositions 傾向，睡眠狀態的性格傾向，隨眠
-[anussati]recollection 記憶，回憶，深切注意
+[anussati] recollection 記憶，回憶，深切注意
 [anxiety] 焦慮
 [Anāgāmi] Non-returner 不還，阿那含
 [Apabhraṃśa] 阿波布蘭沙語（印度北方的語言）
@@ -50,7 +49,7 @@
 [Appameyya] 不能（無法）計量推測的，不可量的，無限的.
 [Arahantship]  the position of arahant 阿羅漢果
 [Arahant] 阿羅漢
-[Arahaṃ] 阿羅漢, 意譯應、應供（值得供養者）worthy one
+[Arahaṃ] worthy one 阿羅漢, 意譯應、應供（值得供養者）
 [Ardhamāgadhī] 摩揭陀俗語 （古印度的一種語言）
 [Arupāvacara  Jhana] Trances developed on immaterial objects 無色界繫
 [arūpa] formless; 無形的，無實體的，沒有本質的，無色的
@@ -58,7 +57,7 @@
 [Asana Kamma] 臨終業
 [Asanga]  無著（音譯為阿僧伽，為印度瑜伽行唯識學派創始人）
 [Asaṅkhārika] 無行的，無作的，無為的
-[Asmimāna] 我慢 pride of self
+[Asmimāna]  pride of self 我慢
 [assu] 眼淚
 [asubha bhavana] 不淨；骨鎖觀
 [Asura] 阿修羅
@@ -68,7 +67,7 @@
 [Attakilamathānuyoga]  self-mortification 苦修，禁慾；禁慾主義
 [avijjā paccaya saṅkhāra] 無明緣行
 [avijjā] 無明
-[ayasa] 毀 infamy , 世間八法之一
+[ayasa]  infamy 毀, 世間八法之一
 [Ayurveda] 阿育吠陀(印度教及佛教的傳統醫學)
 [Aṅgulimāla] 央掘魔羅
 [Aṅguttara Nikāya] 《增支部》,南傳上座部佛教典籍
@@ -92,29 +91,23 @@
 [Bhāviveka] 清辨(南印度佛教中觀派論師，復興了龍樹中觀學，開創中觀自續派)
 [Bodhisattvā] 菩薩，菩提薩埵
 [brahmacariya]  pure conduct 梵行 淨行
-[Brahmacharya] pure conduct 梵行
-[Brahmajāla Sutta] 梵網經
+[Brahmajāla Sutta] 《梵網經》
 [Brahmana] 婆羅門（印度最高的種姓，等於Brahman）
 [Brahma]  梵天
 [brahmin] 婆羅門
 [Brihaspati] Guru（Jupiter）
 [Buddhaghosa] 五世紀印度僧人覺音
-[Buddhapālita] 佛護(中觀派的代表人物之一)
-[Buddha]    佛
+[Buddhapālita] 佛護 (中觀派的代表人物之一)
+[Buddha]  佛
 [buddhi] wisdom 智
-[By hook or by crook] by any method possible 想方設法，千方百計，不擇手段
+[by hook or by crook] by any method possible 想方設法，千方百計，不擇手段
 [bīja] seed 種子
 [caitanya] volition, mind, soul 心，思
 [cakkhu-viññāna] eye consciousness 眼識
-[Cakkhu] eye 眼
+[cakkhu] eye 眼
 [carāpeti]
-[cetanā] thinks about ( present participle )
 [cetanā] volition  思
-[cetanā] 思  volition
 [cetasika] (caitasika in Sanskrit) mental factors, mental concomitants 心所
-[Cetasika] mental factors, mental concomitants 心所
-[cetasika] mental factors, mental concomitants 心所
-[Cetasika] 心所 mental factors, mental concomitants
 [ceteti] thinks about ( present 3 singular )
 [Chemotherapy] 化學療法，簡稱化療
 [chetana] consciousness, intelligence etc. [^1]
@@ -138,7 +131,7 @@
 [dasa akusala]  十不善業
 [dasa kasiṇa] 十遍處
 [dasa] ten 十
-[dayāpanno] 仁慈 compassionate
+[dayāpanno]  compassionate 仁慈
 [daṇḍa] stick 杖
 [depression] 抑鬱症
 [Dhamanīkāṭhinyaja – unmāda ]– psychosis, caused by the hardness of veins
@@ -158,8 +151,7 @@
 [Dițțhi] ( Wrong View) 見，見解，意見，（特別指）謬見
 [Diṭṭhadhammavedanīya Kamma] 現法受業
 [diṭṭhigata sampayutta, diṭṭhigata vippayutta]
-[diṭṭhigata] a false view
-[Diṭṭhi] view 見（對於事物的看法；意見）
+[diṭṭhigata] a false view 
 [diṭṭhi] view 見（對於事物的看法；意見），教條，理論，信念
 [Domanassa] distress, dejectedness, melancholy, grief 憂，憂悩
 [Dosamūla]
@@ -173,8 +165,7 @@
 [dūraṅgama] going a long way; far reaching
 [Eight nature of the world] (lābha alābha yasa ayasa pasaṃsā nindā sukha dukkha)
 [ekacaraṁ] moving along
-[Ekaggata]  one-pointedness 一境性
-[ekaggatā] 一境性，定
+[ekaggatā]  one-pointedness 一境性
 [Ekanirodha] cease together with consciousness 與心同滅
 [Ekavatthuka] have the same base as consciousness 與心擁有同一依處
 [Ekuppāda]  arise together with consciousness 與心同生
@@ -190,7 +181,6 @@
 [garuka Kamma] 重業
 [Gati] 投胎
 [Gautama Buddha] 釋迦牟尼 popularly known as the Buddha
-[Ghāna-viññāna]  	nose consciousness 鼻識
 [Ghāna-viññāna] nose consciousness 鼻識
 [Ghāna] nose 鼻
 [hadayaṃ] 心臟
@@ -201,7 +191,6 @@
 [I-ness]  self-view 自我
 [Indriyasaṃvara] subjugation of senses 根律儀
 [inferiority complex] 自卑情結
-[Issā] jealousy 妒忌，惡意，羨慕
 [issā] jealousy 妒忌，惡意，羨慕
 [Jaccandhavagga] (Blind From Birth chapter) The sixth chapter of the Udāna (盲人摸象的故事)
 [Jainic]
@@ -223,7 +212,7 @@
 [Jīvitukāma]   desire to live 貪生
 [Kamesu micchacara veramani]   不邪淫
 [Kamesu micchacara ] 邪淫
-[Kamma] (Sanskrit: Karma) 業 act, deed
+[Kamma] (Sanskrit: Karma)  act, deed 業
 [kanta] desired
 [kapha]
 [Karaṇīya Sutta] 《慈經》
@@ -237,7 +226,7 @@
 [Kathāvatthu] 《論事》，為《巴利文大藏經》中論藏的組成部分，南傳上座部佛教典籍
 [kaṇṇasukha]  pleasant to the ear 悦耳的
 [kesā] 頭髮
-[Khandha-niddesa]  藴品(《清淨道論》的一個章節)
+[Khandha-niddesa]  《藴品》 (《清淨道論》的一個章節)
 [Khattiyā] 剎帝利
 [kheḷo] 唾
 [Khuddaka Nikāya] 《小部》
@@ -247,7 +236,7 @@
 [King Kanishka] 迦膩色伽一世 (公元2世紀貴霜帝國的一個君主)
 [klama] fatigue, exhaustion, languor, weariness 倦，勞，勞倦，睏乏
 [Kliṣṭamanas] 末那識
-[Kraepelin] 埃米爾·克雷佩林 (Emil Kraepelin) 德國精神病學家，建立了精神病分類體系
+[Kraepelin]  埃米爾·克雷佩林 (Emil Kraepelin) 德國精神病學家，建立了精神病分類體系
 [Kriyā] doing; performance; action 業，事業，用，功用，作用
 [krodha] anger 忿
 [Kukkucca] ( Worry) 惡作，後悔，悔，悔疑
@@ -267,7 +256,7 @@
 [Kṣāṇa] 剎那
 [Lajjī] was ashamed 有慚愧心的
 [lasikā] 關節滑液
-[Lobhamūla]
+[Lobhamūla] 
 [lobha] covetousness, greed 貪婪，貪欲，欲
 [lohitaka] crimson 紅色的
 [lohitaṃ] 血
@@ -302,7 +291,7 @@
 [mantras]  咒語
 [manāpa] pleasant  適意的
 [Manō pubbangamā dhammā, manō setthā manōmayā, manasā cē padutthēna bhāsati vā karoti vā, tatō nam dukkhamanvēti, cakkamva vahatō padam]
-[Maraṇasati] (death awareness) 死隨念
+[Maraṇasati] death awareness 死隨念
 [Maslow's hierarchy of needs]  馬斯洛的需求層次理論
 [mass of suffering] 大量的苦難
 [Materialism]  唯物主義
@@ -314,12 +303,12 @@
 [Maṅgala Sutta] 《吉祥經》
 [medhā] 〔古〕聰慧，聰睿
 [medo] 脂肪
-[Meghiya Sutta] 彌醨品
+[Meghiya Sutta] 《彌醨品》
 [mental kamma] 意業
 [mettā] Friendliness 慈
 [micchā-diṭṭhi] Wrong view
 [Micchādiṭṭhi] Wrong-view  邪見
-[Middha] ( Torpor) 眠，睡眠
+[Middha] torpor 眠，睡眠
 [Milinda Pañha] 《彌蘭王問經》
 [Mohamūla]
 [moha]  delusion （痴）
@@ -334,8 +323,7 @@
 [Mādakapadārthajanya – unmāda] – psychosis of alcoholism
 [Mādhyamaka] 中觀學派
 [mānasa]  心意，意圖
-[Māna] conceit 傲慢，慢執
-[māna] conceit, pride 自負
+[māna] conceit 傲慢，慢執
 [māṃsa] meat 肉
 [mūrchā] mental  stupefaction, delusion 昏迷，神志不清
 [Nagarjuna] 龍樹
@@ -350,14 +338,13 @@
 [nidrā] sleep 睡眠
 [nihitasattha] 已捨刀劍的
 [nihita] put down 放下
-[nindā] 譏 blame, 世間八法之一
-[Niyāma]  limitation, restriction 限制，規定，承諾，戒規
-[Niyāma] a fixed rule 固定的方法
+[nindā] blame 譏, 世間八法之一
+[Niyāma]  limitation, restriction 限制，規定，承諾，戒規; a fixed rule 固定的方法
 [Noble Eightfold Path] 八正道
 [Nāgasena] 那先
 [nīla] sapphire blue 藍的
 [odāta]  白的，白色的
-[ola] (talipot palm) leaves  貝葉
+[ola] talipot palm leaves  貝葉
 [Pabhassara citta]
 [Paccayasannissita]morality consisting in the wise use of the monk's requisities 資具依止戒
 [Paishachi] （印度北方的語言）
@@ -372,7 +359,7 @@
 [paripucchā] 遍問，質問
 [pariyuṭṭhāna] state of being possessed (or hindered) by  爆發;偏愛
 [parlance] 説法，用語
-[pasaṃsā] 稱 praise , 世間八法之一
+[pasaṃsā] praise 稱, 世間八法之一
 [pathavi] earth  地
 [patti dāna] sharing merits with others
 [pattāanumodana] rejoicing in the others
@@ -407,7 +394,7 @@
 [pubbo] 膿
 [puthujjana] an ordinary, average person
 [puññakamma] meritorious action 善業 (期望獲得好報)
-[Puñña] 福，功德 merit meritorious action, virtue.
+[Puñña]  merit meritorious action, virtue 福，功德
 [Pāpakamma] evil action 惡業 （社會層面）
 [Pāpa] sin 不善，惡
 [pātimokkha samvara sīla] All good manners recommended by all wise people should be followed 別解脱律儀
@@ -426,8 +413,7 @@
 [Rupāvacara Jhana]  Trances developed on material objects色界繫
 [rūpajhānas] 四色界禪
 [Rūpa] form 色
-[Rūpāvacara] belonging to the world of form 形色
-[Rūpāvacara] 色界
+[Rūpāvacara] belonging to the world of form 形色, 色界
 [Sabbatthivāda] （[Sarvāstivāda]） 説一切有部
 [sabbā puthujjana ummattaka viya]
 [sabbā] 一切的，所有的
@@ -439,7 +425,7 @@
 [Sakadāgāmi] Once-returner 一來，二果聖人
 [salayatana] 六入 six sense spheres
 [samadhi] concentration 定
-[Samatha] (Tranquility) 止／奢摩他
+[Samatha] Tranquility 止／奢摩他
 [samatha] 止, 止禪
 [Samaññaphala] 《沙門果經》，南傳上座部佛教《巴利文大藏經》中的長部第二部經
 [sammuti] convention 世俗
@@ -458,7 +444,7 @@
 [Samphappalāpa] talking nonsense 胡説
 [samvara] 抑制
 [Samyutta Nikaya] 《相應部》
-[samādhi]  三摩地（三昧，定）Trance, concentration
+[samādhi]  Trance, concentration 三摩地（三昧，定）
 [samāpatti]  synonym for [samādhi] 入定
 [Sangha]  	僧
 [sankhara paccaya vinnana]  行緣識
@@ -483,7 +469,7 @@
 [seyyamāna] superiority conceit 勝慢
 [Sigala Sutta] (Sigālovāda Sutta)《教授屍迦羅越經》
 [sikkhā] 三學
-[sila] 戒 morality
+[sila] morality 戒 
 [Sinhala] 僧伽羅語(也稱為錫蘭語，是斯里蘭卡的官方語言之一)
 [Sinhalese]
 [siṅghānikā] 鼻涕
@@ -494,14 +480,14 @@
 [Sota] ear 耳
 [Sotāpanna] Stream-enterer 初果，已進入聖道者
 [sotāpatti] Stream-entry 須陀洹道（初道）
-[sthiti]  (presence or duration) 住
+[sthiti]  presence or duration 住
 [Sudra] 首陀羅 (印度種姓等級中最低等級)
-[Sukhakāma]  longing for happiness 欲樂
+[sukhakāma]  longing for happiness 欲樂
 [sukha]  happy feelings 樂受
-[Sunyata] ([suññatā])  空 emptiness, void
+[Sunyata] ([suññatā])   emptiness, void 空
 [Sura-meraya-majja-pamadaṭṭhāna veramani]   不飲酒
 [Sura]  修羅（神）
-[Sura] alcohol 酒
+[sura] alcohol 酒
 [Suti] hearing 聽
 [Sutra Saddharmapundarika] 《妙法蓮華經》《法華經》
 [Sutta Piṭaka] 《經藏》
@@ -565,7 +551,7 @@
 [Vinaya Pitaka] 律藏
 [Vinaya] 毘奈耶藏, 律藏, 佛教三藏之一
 [vipassana] 內觀
-[Vipassanā] (Insight) 洞察力，內觀
+[Vipassanā] Insight 洞察力，內觀
 [vippayutta] seperated 已分開的
 [vipāka]  fruit, fruition, product;  報，成熟，有報，果，果報
 [visaya]  special sphere or department 境
@@ -576,13 +562,13 @@
 [viññāṇa paccaya nama rupa] 識緣名色
 [viññāṇa]  consciousness（in Sanskrit Vijñāna)	識
 [Viṃśatikā] 《大乘唯識論》
-[Vyāpāda] Ill-will  惡意，惡毒
+[Vyāpāda] ill-will  惡意，惡毒
 [vācā]  speech, word; 話
 [vāsana] 住處
 [vītikkama] transgression, verbal and physical actions motivated by latent positions 違反，超越
 [winnowing fan] 簸箕
 [yakanaṃ] 肝臟
-[yasa] 譽 fame, 世間八法之一
+[yasa]  fame 譽, 世間八法之一
 [Yogācāra] (Yogachara) 唯識瑜伽行派
 [Āciṇṇa Kamma] 慣習業
 [ādāna] 拿起來，抓著
